@@ -1,0 +1,9 @@
+{
+    "name": "the-beginning/the-beginning-php-mvc-framework",
+    "description": "MVC PHP framework",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
