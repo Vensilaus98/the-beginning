@@ -1,2 +1,2 @@
 # the-beginning
-A PHP Framework
+A PHP MVC Framework
