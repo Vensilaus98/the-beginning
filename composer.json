@@ -1,0 +1,16 @@
+{
+    "name": "patrick98/the-beginning",
+    "description": "Custom PHP MVC Framework for personal development",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "Vensilaus98",
+            "email": "vensilauskimario98@gmail.com"
+        }
+    ],
+    "require": {}
+}
